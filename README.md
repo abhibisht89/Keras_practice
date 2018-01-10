@@ -25,7 +25,5 @@ view performance on Tensorboard<br>
 
 I have uploaded my saved  model as well.<br>
 
-I am able to achive 99.2% accuaracy by tuning the parameters.
-
-
+I am able to achive 97.2% accuaracy on validation data by tuning the parameters.
 
